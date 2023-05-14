@@ -1,9 +1,18 @@
 # SouthamptonProjects
 University of Southampton work files
 
+## Graphical User Interface
+
+### Layout
+
+<img width="1024" alt="Layout" src="https://github.com/BenKnighton/SouthamptonProjects/assets/131706686/6523d53a-2a09-43cf-a54e-cff1c91a9ad9">
+
+### Adding Forces
 
 <img width="1024" alt="Forces" src="https://github.com/BenKnighton/SouthamptonProjects/assets/131706686/33ab0654-9608-487f-bc42-ac043915a045">
-<img width="1024" alt="Layout" src="https://github.com/BenKnighton/SouthamptonProjects/assets/131706686/6523d53a-2a09-43cf-a54e-cff1c91a9ad9">
+
+### Adding SUVAT Options
+
 <img width="1024" alt="SUVAT" src="https://github.com/BenKnighton/SouthamptonProjects/assets/131706686/4f82a030-c835-4c89-98a3-f13563d6a693">
 
 ## Installation
